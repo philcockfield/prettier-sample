@@ -1,9 +1,10 @@
 # prettier-sample
 
-Sample repo showing webpack issue with prettier in the browser.
+Sample repo showing webpack [issue](https://github.com/prettier/prettier/issues/4959) with prettier in the browser.
 
-This uses [React Storybook](https://github.com/storybooks/storybook) to get demo the webpack problem with prettier.
-See webpack config (although it isn't doing anything explicit):
+This uses [React Storybook](https://github.com/storybooks/storybook) to get a webpack configurationg showing the problem with prettier.
+
+See webpack config (although it isn't doing anything explicit, but you may want to tweak the configuration here):
 
     ./storybook/.webpack
 
