@@ -10,7 +10,7 @@ See webpack config (although it isn't doing anything explicit, but you may want 
 
 Issue: https://github.com/prettier/prettier/issues/4959
 
-# Start
+## Start
 
 ```bash
 yarn install
@@ -19,7 +19,7 @@ yarn start
 
 ![Screen](https://user-images.githubusercontent.com/185555/44324527-08924780-a4aa-11e8-9b15-2e96f58ea0f8.gif)
 
-# Webpack Errors:
+## Webpack Errors:
 
 ```bash
 WARNING in ./node_modules/prettier/standalone.js
