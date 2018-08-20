@@ -1,0 +1,20 @@
+{
+  "name": "prettier-sample",
+  "version": "1.0.0",
+  "description": "Sample repo showing webpack issue with prettier in the browser.",
+  "main": "./lib/index.js",
+  "types": "./lib/index.d.ts",
+  "scripts": {
+    "start": "node ./node_modules/@storybook/react/dist/server/index.js -p 3030 -c ./.storybook",
+    "build": "sh ./node_modules/@tdb/typescript/sh/build.sh"
+  },
+  "dependencies": {
+    "@tdb/util": "1.7.47"
+  },
+  "devDependencies": {
+    "@tdb/typescript": "3.0.1",
+    "@tdb/ui.test": "3.2.28"
+  },
+  "repository": "__GITHUB_URL__",
+  "license": "UNLICENSED"
+}
