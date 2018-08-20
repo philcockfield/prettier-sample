@@ -1,10 +1,10 @@
 import { React, css, color, describe } from '../test/storybook';
 import { prettier } from '../common';
 
-describe('primitives', {
+describe('sample', {
   title: 'Sample prettier browser usage.',
   width: 450,
-}).add('Foo', () => <Test />);
+}).add('Prettier', () => <Test />);
 
 /**
  * INTERNAL
