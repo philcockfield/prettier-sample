@@ -9,12 +9,14 @@
     "build": "sh ./node_modules/@tdb/typescript/sh/build.sh"
   },
   "dependencies": {
-    "@tdb/util": "1.7.47"
+    "@tdb/util": "1.7.47",
+    "prettier": "1.14.2"
   },
   "devDependencies": {
     "@tdb/typescript": "3.0.1",
     "@tdb/ui.test": "3.2.28"
   },
   "repository": "__GITHUB_URL__",
-  "license": "UNLICENSED"
+  "license": "UNLICENSED",
+  "private": true
 }
